@@ -1,0 +1,12 @@
+{
+  "name": "work-status-light",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local real-time traffic-light style work status indicator.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

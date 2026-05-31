@@ -1,0 +1,7 @@
+desktop-light.log
+status.json
+node_modules/
+dist/
+*.zip
+*.tmp
+*.log
